@@ -19,6 +19,9 @@ http://www.designinginteractions.com/interviews/BillVerplank
 <i>Edward Tufte | The Visual Display of Quantitive Information</i><br>
 https://www.edwardtufte.com/tufte/books_vdqi
 
+<i>David McCandless</i><br>
+http://davidmccandless.com/
+
 Information is Beautiful<br>
 https://informationisbeautiful.net/
 
