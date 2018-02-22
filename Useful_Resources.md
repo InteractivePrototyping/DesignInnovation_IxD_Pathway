@@ -51,9 +51,9 @@ https://www.bareconductive.com/
 https://processing.org/
 
 <i>Learning Processing</i><br>
-https://processing.org/examples/
-https://processing.org/tutorials/
-http://learningprocessing.com/
+https://processing.org/examples/ <br>
+https://processing.org/tutorials/ <br>
+http://learningprocessing.com/ <br>
 
 <i>Arduino</i><br>
 https://www.arduino.cc/
