@@ -17,6 +17,7 @@ https://dynamicland.org/
 http://www.designinginteractions.com/interviews/BillVerplank
 
 Information is Beautiful<br>
+https://informationisbeautiful.net/
 
 <strong>Practical Examples:</strong>
 
