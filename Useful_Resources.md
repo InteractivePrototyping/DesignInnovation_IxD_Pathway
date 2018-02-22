@@ -16,6 +16,9 @@ https://dynamicland.org/
 <i>Bill Verplank </i><br>
 http://www.designinginteractions.com/interviews/BillVerplank
 
+<i>Edward Tufte | The Visual Display of Quantitive Information</i><br>
+https://www.edwardtufte.com/tufte/books_vdqi
+
 Information is Beautiful<br>
 https://informationisbeautiful.net/
 
