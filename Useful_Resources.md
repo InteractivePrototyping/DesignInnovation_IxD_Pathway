@@ -50,8 +50,16 @@ https://www.bareconductive.com/
 <i>Processing</i><br>
 https://processing.org/
 
+<i>Learning Processing</i><br>
+https://processing.org/examples/
+https://processing.org/tutorials/
+http://learningprocessing.com/
+
 <i>Arduino</i><br>
 https://www.arduino.cc/
+
+<i>Learning Arduino</i><br>
+https://www.arduino.cc/en/Tutorial/HomePage
 
 <i>IFTT</i><br>
 https://ifttt.com/
